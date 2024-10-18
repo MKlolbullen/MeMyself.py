@@ -1,5 +1,6 @@
-
-#version 2
+import sys
+import time
+# version 2
 from random import choice
 
 class Person:
@@ -200,4 +201,15 @@ personal_traits = ["Analytical", "Creative", "Collaborative"]
 for trait in personal_traits:
     person.add_trait(trait)
 
-print(person)
+# Function to create typing effect
+def typing_effect(text, speed=0.033):
+    for char in text:
+        sys.stdout.write(char)
+        sys.stdout.flush()
+        time.sleep(speed)
+    print()  # For newline after the message
+
+# Example usage in your script with the person object:
+typing_effect(str(person))
+
+
