@@ -145,7 +145,7 @@ victor = Person(
         Program("Splunk", "Defensive", "Proprietary", "A platform for searching, monitoring, and analyzing machine-generated data."),
         Program("BBot", "Offensive", "Open-source", "A bundle of close to 100 different tools with API keys to widen its amazing capabilities")
     ],
-    programming_languages=["Python", "C", "Java", "JavaScript", "C++"]
+    programming_languages=["Python", "C", "Java", "JavaScript", "C++", "Rust", "Golang"]
 )
 
 # Print all information about Victor Åhgren
