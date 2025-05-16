@@ -134,3 +134,4 @@ Hobbies
   • Spending time with close friends and family
 
 ```
+![image](https://github.com/user-attachments/assets/3a1256d2-4e5b-4a02-b7a0-2ba896455766)
