@@ -1,7 +1,6 @@
 # Fun script I wrote to try to describe myself in code.
 
-```
-
+```zsh
 Victor Åhgren — Age 35
 Cyber-Security Consultant, Analyst, Engineer, Penetration Tester, Bug Bounty Hunter
 
@@ -41,7 +40,31 @@ Programs
    • ZAP                  — OWASP Zed Attack Proxy
    • wpscan               — WordPress security scanner
    • nikto                — Web server scanner
-   • Responder            — LLMNR/NBT-NS poisoner
+   • Responder            — LLMNR/NBT-NS poisonerber-Security Consultant, Analyst, Engineer, Penetration Tester, Bug Bounty Hunter
+
+Website: https://victorahgren.com (reconstruction)
+Notion site: https://victorahgren.notion.site/VICTOR-HGREN-CYBER-SECURITY-SPECIALIST-f9e8a93d1a634af09c7d1ce083ade798
+Music: https://www.youtube.com/@victorahgren560
+
+Skills
+  • Defensive security       Very experienced and competent (⌀ 3.73)
+  • Offensive security       Highly experienced and competent (⌀ 4.58)
+  • Programming              Highly experienced and competent (⌀ 4.77)
+  • Cybersecurity            Highly experienced and competent (⌀ 4.87)
+  • Web application security Highly experienced and competent (⌀ 4.87)
+  • Cloud security           Very experienced and competent (⌀ 3.9)
+  • Reverse engineering      Very experienced and competent (⌀ 3.2)
+  • Exploit development      Very experienced and competent (⌀ 3.63)
+  • Automation & scripting   Very experienced and competent (⌀ 4.33)
+
+Programs
+ Defensive
+   • Nessus               — Vulnerability scanner by Tenable
+   • Rapid7 InsightVM     — Vulnerability management
+   • Qualys               — Cloud VM platform
+   • IBM QRadar           — SIEM
+   • CrowdStrike Falcon   — Endpoint security
+   • Splunk               — Log 
    • Bettercap            — Network attack toolkit
    • BloodHound           — AD privilege escalation mapper
    • mimikatz             — Credential dumper for Windows
@@ -109,4 +132,5 @@ Hobbies
   • Drumming
   • Making music
   • Spending time with close friends and family
+
 ```
